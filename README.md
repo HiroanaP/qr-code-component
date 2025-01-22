@@ -29,8 +29,8 @@ In order to do it, I was working mainly in HTML and CSS and was using the Tailwi
 
 ### Links
 
-- Solution URL: [(https://your-solution-url.com)](https://github.com/HiroanaP/qr-code-component.git)
-- Live Site URL: [(https://your-live-site-url.com)](https://hiroanap.github.io/qr-code-component/)
+- Solution URL: [(https://github.com/HiroanaP/qr-code-component.git)]
+- Live Site URL: [(https://hiroanap.github.io/qr-code-component/)]
 
 ## My process
 
